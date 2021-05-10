@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Programando con Android</string>
+    <string name="btn_saludo">saludar</string>
+</resources>
